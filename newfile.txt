@@ -1,0 +1,5 @@
+shoping cart is displayed as expected or not
+icon is clickble or not
+user is able to add the item or not
+user is able to delete the item or not
+items increases the no of items or not same is reflecting quantities in cart or not
