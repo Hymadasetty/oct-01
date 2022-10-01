@@ -1,0 +1,6 @@
+items decreases the no of items or not same is reflecting quantities in cart or not
+empty cart icon clickble or not
+when click on item which is in cart then it should navigate to shoping cart page
+same item quantity increasing or not
+same item quantity decreasing or not
+total price should be correct
